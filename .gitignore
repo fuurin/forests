@@ -14,3 +14,4 @@ results/
 lib64
 pyvenv.cfg
 pip-selfcheck.json
+.DS_Store
